@@ -1,10 +1,8 @@
-﻿using DotNetCore.PowerBi.Converters.Converters;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Abstractions;
 using System.IO.Compression;
-using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
